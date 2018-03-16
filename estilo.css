@@ -1,0 +1,28 @@
+p {
+	float: left;
+	font-family: cursive;
+
+}
+
+a {
+	margin: 10px 10px 10px 10px;
+	color: blue;
+	font-size: 15pt;
+
+}
+
+.Juanes {
+    margin: 10px 10px 10px 10px;
+	color: blue;
+	font-size: 25pt;
+}
+
+.hombre {
+	font-size: 15pt;
+	color: red;
+}
+
+.mujer{
+	font-size: 15pt;
+	color:pink;
+}
